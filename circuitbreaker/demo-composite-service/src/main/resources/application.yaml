@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+basic:
+  hello:
+    url: http://localhost:8080
+
+hystrix:
+  command:
+   default:
+    circuitBreaker:
+     enabled: true
+     requestVolumeThreshold: 5
+     sleepWindowInMilliseconds: 5000
+     errorThresholdPercentage: 50

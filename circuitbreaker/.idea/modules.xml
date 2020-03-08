@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-service/basic-service.iml" filepath="$PROJECT_DIR$/basic-service/basic-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/composite-service/composite-service.iml" filepath="$PROJECT_DIR$/composite-service/composite-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite-service/demo-composite-service.iml" filepath="$PROJECT_DIR$/composite-service/demo-composite-service.iml" />
     </modules>
   </component>
 </project>
